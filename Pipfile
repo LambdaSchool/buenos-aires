@@ -11,6 +11,7 @@ numpy = "*"
 sklearn = "*"
 notebook = "*"
 matplotlib = "*"
+category-encoders = "*"
 
 [requires]
 python_version = "3.8"
